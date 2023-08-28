@@ -6,4 +6,4 @@ Projeto de HMTL e CSS de Clone da página do Youtube utilizando Flexbox proposto
 > - Neste projeto segui as orientações do arquivo do Figma disponibilizado no curso.
 
 > ## Link GitHubPages:
-> - 
+> - https://galimarodrigues.github.io/clone-youtube/
